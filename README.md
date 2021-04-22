@@ -1,5 +1,5 @@
 # scrapy-priceof
-Go colly scrapy lib test
+Go colly scraper lib test
 
 Run project:
 
